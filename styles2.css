@@ -1794,3 +1794,9 @@ nav {
     .back-to-top a {
       font-size: 14px;
       line-height: 20px; } }
+
+
+
+      html {
+        scroll-behavior: smooth;
+      }

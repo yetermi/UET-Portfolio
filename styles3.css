@@ -15,7 +15,7 @@ html {
   -ms-text-size-adjust: 100%;
   /* 2 */
   -webkit-text-size-adjust: 100%;
-  
+
 }
   /* 2 */ }
 
@@ -2996,3 +2996,9 @@ nav {
     margin-left: 0;
     margin-right: 0;
     margin-top: 2%; } }
+
+
+
+    html {
+      scroll-behavior: smooth;
+    }
